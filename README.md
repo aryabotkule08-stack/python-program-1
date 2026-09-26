@@ -3,6 +3,11 @@
 ![App screenshot](https://i.ibb.co/7dC9JKKC/Q1.png)
 
 
+#Q2. Take name as input and greet the user
+![App screenshot](https://i.ibb.co/zH2yCZsQ/Q2.png)
+
+
+
 #Q3. Take two numbers and display their sum
 
 ![App Screenshot](https://i.ibb.co/Kc1B5rm5/Q3-S.png)
